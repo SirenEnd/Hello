@@ -1,0 +1,9 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Sample test passed!\" && exit 0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
